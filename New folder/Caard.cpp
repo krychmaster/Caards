@@ -1,0 +1,1 @@
+int Card::counter=0;
